@@ -1,0 +1,54 @@
+  W E     O P
+  S   F
+Z X C V   N
+-------------
+⌥F: Finder
+⌥C: Chrome
+⌥O: Outlook
+⌥E: Excel
+⌥S: Sublime Text
+⌥V: VOX
+⌥N: Nimble Commander
+⌥P: PaintBrush
+⌥W: Webex Team
+⌥TAB
+⌥Z - Chrome,switch Tab
+
+
+Q W E
+A S D
+Z X C 
+-------------
+⌃⌥LEFT:  1/2 Left
+⌃⌥RIGHT: 1/2 Right
+⌃⌥UP:    1/2 Up
+⌃⌥DOWN:  1/2 Down
+⌃⌥E: 1/6 Left Top
+⌃⌥D: 1/6 Left Bottom
+⌃⌥S: 1/3 Left
+⌃⌥W: 2/3 Right
+⌃⌥Q: 1/2 Left Top
+⌃⌥A: 1/2 Left Bottom
+⌃⌥Z: Zoom in/out
+⌃⌥X: Max/Restore Window
+⌃⌥C: Capture Monoclip or WeChat
+
+
+⌘⌃⌥LEFT:  Move To Left  Monitor
+⌘⌃⌥RIGHT: Move To Right Monitor
+
+⌘⌥sp: Finder Search
+ ⌘sp: Spotlight Search
+
+F11:    Show Desktop
+⌃LEFT:  Space_Move to Left
+⌃RIGHT: Space_Move to Right
+⌃UP:    Mission Control
+⌃DOWN:  Application Window
+
+--MOVE Focus to--
+⌃F2: top menu bar
+⌃F3: Dock
+⌃F4: next Window* {similar to alt-tab}
+⌃F5: window top bar
+⌃F6: float window
