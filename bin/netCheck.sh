@@ -27,6 +27,11 @@ echo "- Check Ethernet Port Active ? -"
 echo "--------------------------------"
 echo ""
 
+ifconfig | grep inet | grep -vE '127|inet6'
+
+echo ""
+echo ""
+
 /sbin/ifconfig en6 | grep active -B3
 
 echo ""
